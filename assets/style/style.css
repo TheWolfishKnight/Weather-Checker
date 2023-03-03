@@ -1,0 +1,72 @@
+h1 {
+  background-color: #dff7f5;
+  text-align: center;
+}
+
+label {
+  margin-top: 12px;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.card {
+  margin: 12px;
+}
+
+.colOne {
+  background-color: white;
+}
+
+.colTwo {
+  background-color: rgb(255, 255, 255);
+}
+
+.histBtnRow {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.green {
+  background-color: lightgreen;
+}
+
+.yellow {
+  background-color: #ffffb2;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.icons {
+  height: 75px;
+  width: 75px;
+}
+
+.cardTodayDate {
+  font-size: 22px;
+}
+
+.bluebg {
+  color: #2d7bff !important;
+}
+
+.colTwo {
+  background-color: rgb(153, 224, 224);
+}
+
+.rounded {
+  border-radius: 20px;
+}
+
+body {
+  background-color: #2d7bff;
+}
